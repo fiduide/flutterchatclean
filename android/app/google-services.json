@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925670138060",
+    "firebase_url": "https://chatbepitch.firebaseio.com",
+    "project_id": "chatbepitch",
+    "storage_bucket": "chatbepitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925670138060:android:269ec51cbaacf54091a269",
+        "android_client_info": {
+          "package_name": "com.example.flutterchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925670138060-5rlnbeu8cqe910e0jm6et3fj1v667a89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQL96xjcI7UNGsgkqENmEnQkQwZjOgf6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925670138060-5rlnbeu8cqe910e0jm6et3fj1v667a89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
